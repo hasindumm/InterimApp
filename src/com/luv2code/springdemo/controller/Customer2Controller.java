@@ -41,10 +41,11 @@ public class Customer2Controller {
 	public String showReservation(Model theModel2) {
 				
 		
-		// get customers from the service
+		
 				List<Customer2> theCustomers2 = customer2Service.getCustomers2();
 						
-				// add the customers to the model
+			
+				
 				theModel2.addAttribute("customers2", theCustomers2);
 				
 		

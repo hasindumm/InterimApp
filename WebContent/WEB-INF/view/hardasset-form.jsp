@@ -12,7 +12,7 @@
 	
 	
 </head>
-<body>
+<body background="https://wallpaper-gallery.net/images/back-to-school-wallpaper/back-to-school-wallpaper-2.jpg">
 
 
 <div class="container">
